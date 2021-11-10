@@ -1,0 +1,16 @@
+.styledFont {font-family: cursive; color: rgb(61, 109, 14); font-style: italic;}
+
+body {
+    background-color: rgb(220, 233, 235);
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: black;
+  }
+
+
+#styledImage {
+    border: 2px solid rgb(2, 248, 43);
+  }
